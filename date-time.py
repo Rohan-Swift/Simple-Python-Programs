@@ -10,6 +10,3 @@ t1 = now.strftime("%H:%M:%S")
 
 print("Date: ", d1)
 print("Time: ", t1)
-
-
-
