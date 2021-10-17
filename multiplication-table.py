@@ -1,4 +1,3 @@
-# Multiplication table (from 1 to 10)
 num = int(input("Display multiplication table of\n"))
 
 for i in range(1, 11):
